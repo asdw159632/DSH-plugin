@@ -43,7 +43,8 @@ plugin_manager remove_bundle target="<插件包名>"
 `
 DSH-plugin/
 └── plugins/
-    └── dsh-panellist-collapse/   # submodule → 独立仓库
+    ├── dsh-panellist-collapse/   # submodule → 独立仓库
+    └── dsh-git-plugin/           # submodule → 独立仓库
 `
 
 ## 许可
