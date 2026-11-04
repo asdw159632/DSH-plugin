@@ -1,0 +1,3 @@
+[submodule "plugins/dsh-panellist-collapse"]
+	path = plugins/dsh-panellist-collapse
+	url = https://github.com/asdw159632/dsh-panellist-collapse.git
